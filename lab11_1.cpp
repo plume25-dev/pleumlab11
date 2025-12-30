@@ -21,7 +21,7 @@ int main()
      else if( x == 4)grade = "C";
      else if( x == 5)grade ="D+";
      else if( x == 6)grade ="D";
-     else if( x == 7)grade ="F+";
+     else if( x == 7)grade ="F";
      else grade ="W";
      cout<<"You will get "<< grade <<" in this 261102." ;
       return 0;
