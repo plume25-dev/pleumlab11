@@ -12,7 +12,7 @@ int main()
      cin.get();
      cin.get();
      cin.get();
-     int x =rand()%10;
+     int x =rand()%9;
      string grade;
      if(x == 0)grade ="A";
      else if(x == 1) grade ="B+";
